@@ -1,11 +1,11 @@
- 08/05/2025 05:32:06 PM - INFO - Iniciando conexão com servidor SMTP: smtp.gmail.com:587
- 08/05/2025 05:32:08 PM - INFO - Conexão com servidor de e-mail estabelecida com sucesso.
- 08/05/2025 05:32:08 PM - INFO - EXECUTANDO PROCEDURE LIBVEC..
- 08/05/2025 05:32:08 PM - INFO - Conexão com banco de dados estabelecida com sucesso.
- 08/05/2025 05:32:08 PM - INFO - Executando procedure: up_libvec_libfat_automatico de 05/05/2025 até 05/08/2025
- 08/05/2025 05:32:08 PM - INFO - Procedure executada com sucesso.
- 08/05/2025 05:32:08 PM - INFO - Data formatada para o e-mail: 08/05/2025
- 08/05/2025 05:32:08 PM - INFO - Montando corpo do e-mail para: rpa.carmais@gmail.com
- 08/05/2025 05:32:09 PM - INFO - E-mail enviado com sucesso para: rpa.carmais@gmail.com
- 08/05/2025 05:32:09 PM - INFO - Conexão com banco de dados encerrada.
- 08/05/2025 05:32:09 PM - INFO - Processo Finalizado
+ 09/05/2025 03:48:10 PM - INFO - Iniciando conexão com servidor SMTP: smtp.gmail.com:587
+ 09/05/2025 03:48:12 PM - INFO - Conexão com servidor de e-mail estabelecida com sucesso.
+ 09/05/2025 03:48:12 PM - INFO - EXECUTANDO PROCEDURE LIBVEC..
+ 09/05/2025 03:48:12 PM - INFO - Conexão com banco de dados estabelecida com sucesso.
+ 09/05/2025 03:48:12 PM - INFO - Executando procedure: up_libvec_libfat_automatico de 05/06/2025 até 05/09/2025
+ 09/05/2025 03:48:13 PM - INFO - Procedure executada com sucesso.
+ 09/05/2025 03:48:13 PM - INFO - Data formatada para o e-mail: 09/05/2025
+ 09/05/2025 03:48:13 PM - INFO - Montando corpo do e-mail para: rpa.carmais@gmail.com
+ 09/05/2025 03:48:14 PM - INFO - E-mail enviado com sucesso para: rpa.carmais@gmail.com
+ 09/05/2025 03:48:14 PM - INFO - Conexão com banco de dados encerrada.
+ 09/05/2025 03:48:14 PM - INFO - Processo Finalizado
